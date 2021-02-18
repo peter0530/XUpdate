@@ -16,7 +16,7 @@
   -->
 
 <resources>
-    <string name="xupdate_lab_update"升級</string>
+    <string name="xupdate_lab_update">升級</string>
     <string name="xupdate_lab_background_update">後臺更新</string>
     <string name="xupdate_lab_install">安裝</string>
     <string name="xupdate_lab_ignore">跳過此版本</string>
